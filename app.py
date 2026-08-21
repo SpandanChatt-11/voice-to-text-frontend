@@ -323,7 +323,6 @@ st.markdown("""
 st.markdown("""
 <div class="info-box">
     This UI calls a live backend API (FastAPI + Docker, deployed on Render)
-    — the model runs on the server, not in this browser tab.
 </div>
 """, unsafe_allow_html=True)
 
